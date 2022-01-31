@@ -1,0 +1,9 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: INTERIOR-SERVICE
+  config:
+    import: "configserver:http://localhost:9296"
+
+

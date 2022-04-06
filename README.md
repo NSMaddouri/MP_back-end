@@ -11,5 +11,4 @@ micro-services.
 Ces microservices sont :
 - Micro service du ministère de l’intérieur
 - Micro service du ministre des finances.
-Chaque microservice doit avoir sa propre base de données. Vous êtes libre du choix du langage
-de développement ainsi que le type du SGBD.
+Chaque microservice doit avoir sa propre base de données.

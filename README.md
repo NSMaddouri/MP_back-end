@@ -6,8 +6,7 @@ En retour, il aura un écran composé de différents compartiments. Chacun affic
 informations particulières à savoir :
 - La liste des infractions ou néant
 - Un avis de recherche possible  
-**Pour mettre en place ce type d’application, on vous demande d’utiliser une architecture orientée**
-micro-services.
+
 Ces microservices sont :
 - Micro service du ministère de l’intérieur
 - Micro service du ministre des finances.

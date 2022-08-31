@@ -10,4 +10,4 @@ informations particulières à savoir :
 Ces microservices sont :
 - Micro service du ministère de l’intérieur
 - Micro service du ministre des finances.
-Chaque microservice doit avoir sa propre base de données.
+
